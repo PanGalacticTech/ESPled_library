@@ -1,2 +1,5 @@
 # ESPled_library
- Flashing and Fading LEDs the Object Orientated Way - For ESP32
+
+Depreciated Please see 
+
+[ledObject_library](https://github.com/pangalactictech/ledObject_library)
